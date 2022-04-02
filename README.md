@@ -22,7 +22,7 @@ There is an example in the `Feidong_disp` folder.
 
 For other details, please refer to `EGFAnalysisTimeFreq_Manual.pdf`
 
-The dispersion image file is a 176x49 matrix and saved as a `dat`. The velocity range we set is 0.5-4 km/s and the step is 0.02 km/s. The period range is 0.2-5 s with a step of 0.1 s. 
+The dispersion image file is a 176x49 matrix and saved in `dat` format. The velocity range we set is 0.5-4 km/s and the step is 0.02 km/s. The period range is 0.2-5 s with a step of 0.1 s. 
 
 ## References:
 Yang, S., Zhang, H., Gu, N., Gao, J., Xu, J., Jin, J., Li, J., and Yao H. (2022). Automatically Extracting Surface Wave Group and Phase Velocity Dispersion Curves from Dispersion Spectrograms Using a Convolutional Neural Network. Seismological Research Letters, doi: https://doi.org/10.1785/0220210280.
