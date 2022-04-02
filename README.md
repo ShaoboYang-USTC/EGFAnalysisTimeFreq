@@ -20,7 +20,7 @@ There is an example in the `Feidong_disp` folder.
 
 3. After selecting the parameters, click the `Start Processing` button to start saving the dispersion files.
 
-For other details, please refer to `EGFAnalysisTimeFreq_Manual.pdf` 
+For other details, please refer to `EGFAnalysisTimeFreq_Manual.pdf`
 
 The dispersion image file is a 176x49 matrix and saved in `dat` format. The velocity range we set is 0.5-4 km/s and the step is 0.02 km/s. The period range is 0.2-5 s with a step of 0.1 s. 
 
