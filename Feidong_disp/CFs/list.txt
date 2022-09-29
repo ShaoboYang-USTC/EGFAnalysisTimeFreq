@@ -30,4 +30,3 @@ FD31_FD37.dat
 FD38_FD42.dat
 FD41_FD47.dat
 FD48_FD50.dat
-list.txt

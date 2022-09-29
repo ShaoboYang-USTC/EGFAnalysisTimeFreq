@@ -778,7 +778,7 @@ end
 time = ((g_WinMinPtNum-1):1:(g_WinMaxPtNum-1))/gfcn.SampleF;
 SignalLength = length(time);
 
-gfcn.DeltaV = 0.02;
+gfcn.DeltaV = 0.005;
 VPoint = gfcn.WinMinV:gfcn.DeltaV:gfcn.WinMaxV;
 VImgPt = length(VPoint);
 TPoint = cross.StartT:cross.DeltaT:cross.EndT;
